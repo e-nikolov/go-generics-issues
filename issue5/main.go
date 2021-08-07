@@ -8,7 +8,3 @@ func Do[T any](doer pkg.Doer[T]) {
 
 func main() {
 }
-
-type Doer[T any] interface {
-	Do() T
-}
