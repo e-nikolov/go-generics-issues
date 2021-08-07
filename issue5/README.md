@@ -1,4 +1,5 @@
-gotip build -gcflags=all=-G=3 main.go   
+`gotip build -gcflags=all=-G=3 main.go`
+
 
 ```
 # command-line-arguments
